@@ -1,0 +1,8 @@
+# This file has been auto-generated during installation
+parameters:
+    database_host: localhost
+    database_port: 3306
+    database_user: root
+    database_password: admin
+    database_name: contao
+    database_version: 10.3.38-MariaDB-0ubuntu0.20.04.1

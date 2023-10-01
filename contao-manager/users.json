@@ -1,0 +1,10 @@
+{
+    "users": {
+        "tidus_contao": {
+            "username": "tidus_contao",
+            "password": "$2y$13$K990gLHloZxjiFRk8dgzfuKG3aWWhKoKhkOsDAdPlJT3q\/cZgBE2S"
+        }
+    },
+    "version": 2,
+    "secret": "8d471d79068fb64c8b2de2976a8be89f16aa46a1bfbefec1ca16c123f567f62355040f2f3d96b2e9"
+}
